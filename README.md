@@ -4,3 +4,5 @@ Blockchain and Smart Contracts are often mentioned in the same sentence. However
 Smart Contracts Definition (Nick Szabo): “a set of promises, specified in digital form, including protocols within which the parties perform on the other promises” 
 
 [This Paper is a WIP]
+
+Nathan Aw
